@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: org.marketing.newsletter.controller.SubscriptionControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 12.987 s <<< FAILURE! - in org.marketing.newsletter.controller.SubscriptionControllerTest
+testSubscriptionFormTakesCorrectlySubmittedData(org.marketing.newsletter.controller.SubscriptionControllerTest)  Time elapsed: 2.166 s  <<< FAILURE!
+java.lang.AssertionError: Range for response status value 200 expected:<REDIRECTION> but was:<SUCCESSFUL>
+	at org.marketing.newsletter.controller.SubscriptionControllerTest.then_theUserIsRedirectedToTheConfirmationPage(SubscriptionControllerTest.java:90)
+	at org.marketing.newsletter.controller.SubscriptionControllerTest.testSubscriptionFormTakesCorrectlySubmittedData(SubscriptionControllerTest.java:98)
+
+testSubscriptionFormRefusesInputWithMissingFullName(org.marketing.newsletter.controller.SubscriptionControllerTest)  Time elapsed: 1.261 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<400> but was:<200>
+	at org.marketing.newsletter.controller.SubscriptionControllerTest.then_theRegistrationIsRefusedDueToBadRequest(SubscriptionControllerTest.java:103)
+	at org.marketing.newsletter.controller.SubscriptionControllerTest.testSubscriptionFormRefusesInputWithMissingFullName(SubscriptionControllerTest.java:123)
+

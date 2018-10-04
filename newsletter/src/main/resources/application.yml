@@ -1,0 +1,11 @@
+subscription:
+  numberOfNewsletterSubscriptions: 42342
+
+communication:
+  recentNewsletters:
+    -
+      subject: Extreme price-cut! 20-30-40% OFF!
+      content: Get the most value of your money!
+    -
+      subject: New store in W-London!
+      content: No more long travels to get to your favourite place to shop!

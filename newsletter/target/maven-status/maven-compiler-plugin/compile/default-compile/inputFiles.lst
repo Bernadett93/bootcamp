@@ -1,0 +1,14 @@
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\controller\HelloWorldController.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\HelloWorld.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\model\Subscription.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\service\impl\SubscriptionServiceImpl.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\repository\impl\ConfigurationBasedNewsletterRepositoryImpl.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\repository\NewsletterRepository.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\controller\ConfirmationController.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\controller\SubscriptionController.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\service\exception\SubscriptionAlreadyExistsException.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\repository\SubscriptionRepository.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\repository\impl\DummySubscriptionRepositoryImpl.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\model\Newsletter.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\NewsletterApplication.java
+C:\apps\sts-workspace\newsletter\src\main\java\org\marketing\newsletter\service\SubscriptionService.java
